@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rishav-io.vercel.app/api/hello.svg?color=blue&name=Md%20Shahadath%20Hossain" alt="Hello">
+    <h2 style="font-family: 'Arial', sans-serif; font-weight: bold; color: #2c3e50;">Hello 👋 Welcome to my Profile!</h2>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Md Shahadath Hossain</h1>
@@ -26,7 +26,7 @@ I'm a passionate and results-driven Software Developer specializing in **Python*
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
@@ -57,7 +57,7 @@ I'm a passionate and results-driven Software Developer specializing in **Python*
 ---
 
 <p align="center">
-  <img src="https://rishav-io.vercel.app/api/final-thought.svg?text=Feel%20free%20to%20get%20in%20touch%20and%20connect!&color=green&border=true" alt="Final Thoughts">
+    <h4 style="font-family: 'Arial', sans-serif; font-weight: bold; color: #2ecc71;">Thank you for visiting. Let's connect!</h4>
 </p>
 
 ---
