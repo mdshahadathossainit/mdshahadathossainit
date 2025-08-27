@@ -1,12 +1,11 @@
+<p align="center">
+  <img src="https://rishav-io.vercel.app/api/hello.svg?color=blue&name=Md%20Shahadath%20Hossain" alt="Hello">
+</p>
+
 <h1 align="center">Hi there 👋 I'm Md Shahadath Hossain</h1>
 
 <p align="center">
-  <a href="https://github.com/mdshahadathossainit">
-    <p align="center">
-  <img src="https://rishav-io.vercel.app/api/hello.svg?color=blue&name=Md%20Shahadath%20Hossain" alt="Hello">
-</p>
-    <img src="https://komarev.com/ghpvc/?username=mdshahadathossainit&color=blueviolet" alt="Profile views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdshahadathossainit&color=blueviolet" alt="Profile views">
 </p>
 
 ### About Me
@@ -46,14 +45,20 @@ I'm a passionate and results-driven Software Developer specializing in **Python*
   * **Repository:** [https://github.com/mdshahadathossainit/mdshahadathossainit.github.io.git](https://github.com/mdshahadathossainit/mdshahadathossainit.github.io.git)
   * **Technologies:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
----<p align="center">
-  <img src="https://rishav-io.vercel.app/api/final-thought.svg?text=Feel%20free%20to%20get%20in%20touch%20and%20connect!&color=green&border=true" alt="Final Thoughts">
-</p>
+---
 
 ### Let's Connect
 
-<a href="https://github.com/mdshahadathossainit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:m.shahadat.hossain.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<p align="center">
+  <a href="https://github.com/mdshahadathossainit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:m.shahadat.hossain.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://rishav-io.vercel.app/api/final-thought.svg?text=Feel%20free%20to%20get%20in%20touch%20and%20connect!&color=green&border=true" alt="Final Thoughts">
+</p>
 
 ---
 
