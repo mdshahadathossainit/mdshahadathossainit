@@ -1,11 +1,9 @@
-<p align="center">
-    <h2 style="font-family: 'Arial', sans-serif; font-weight: bold; color: #2c3e50;">Hello 👋 Welcome to my Profile!</h2>
-</p>
-
 <h1 align="center">Hi there 👋 I'm Md Shahadath Hossain</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdshahadathossainit&color=blueviolet" alt="Profile views">
+  <a href="https://github.com/mdshahadathossainit">
+    <img src="https://komarev.com/ghpvc/?username=mdshahadathossainit&color=blueviolet" alt="Profile views">
+  </a>
 </p>
 
 ### About Me
@@ -26,11 +24,11 @@ I'm a passionate and results-driven Software Developer specializing in **Python*
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-</p>
+p>
 
 ---
 
@@ -49,16 +47,8 @@ I'm a passionate and results-driven Software Developer specializing in **Python*
 
 ### Let's Connect
 
-<p align="center">
-  <a href="https://github.com/mdshahadathossainit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:m.shahadat.hossain.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
-
-<p align="center">
-    <h4 style="font-family: 'Arial', sans-serif; font-weight: bold; color: #2ecc71;">Thank you for visiting. Let's connect!</h4>
-</p>
+<a href="https://github.com/mdshahadathossainit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:m.shahadat.hossain.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ---
 
