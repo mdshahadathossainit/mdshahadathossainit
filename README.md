@@ -8,7 +8,7 @@
 </p>
 
 ### 🚀 About Me
-Results-driven **Software Developer** specializing in **Python/Django** and **AI/Computer Vision**. Building scalable web apps and ML models for real-world impact. Currently developing **Vim-DR**: High-resolution Vision Mamba for Diabetic Retinopathy grading (95%+ accuracy on benchmarks).
+Results-driven **Software Developer** specializing in **Python/Django** and **AI/Computer Vision**. Building scalable web apps and ML models for real-world impact. Currently developing **Vim-DR**: High-resolution Vision Mamba for Diabetic Retinopathy grading .
 
 - 🔭 **Current:** Vim-DR (Medical Imaging with Vision Mamba)
 - 🎓 **Education:** BSc in Computer Science & Engineering, Port City International University
