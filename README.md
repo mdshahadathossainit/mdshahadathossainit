@@ -31,10 +31,13 @@ Results-driven **Software Developer** specializing in **Python/Django** and **AI
 
 ### 🌟 Featured Projects
 
-#### 📚 **[PaperFlow](https://github.com/mdshahadathossainit/paperflow)** 
-Centralized platform for researchers: upload, manage, discover papers with advanced filtering.
-- **Tech:** Django, SQLite, Bootstrap, JS
-- **Impact:** Handles 1K+ papers; seamless doc management
+#### 📚 **[research-hub](https://github.com/mdshahadathossainit/research-hub)** 
+Full-Stack research management system for paper publishing and archiving.
+
+Tech: Django REST, React, Tailwind CSS, SQLite
+
+Impact: Live demo on Vercel/Render; responsive dashboard with REST API
+
 - **[Live Demo] (frontend: https://research-hub-kappa.vercel.app/) (Backend: https://research-hub-d9pz.onrender.com/api/papers/)**
 
 #### 🤖 **[Nexus-AI](https://github.com/mdshahadathossainit/nexus-ai-project)**
