@@ -57,8 +57,10 @@ Full LMS bridging students to resources with course tracking.
   **[Live Demo] (https://mdshahadathossainit.pythonanywhere.com/)**
 
 #### 🎥 **[Video Recommender](https://github.com/mdshahadathossainit/video-recommendation-assignment)**
-YouTube API-powered smart recommendations using ML.
-- **Tech:** Python, Pandas, Scikit-learn, Django
+​YouTube API-powered smart recommendations using a hybrid filtering strategy.
+​Tech: FastAPI, YouTube Data API, Scikit-learn, SQLAlchemy
+​Impact: Implements a Hybrid strategy combining Popularity-Based (Cold Start) and Content-Based Filtering for high-accuracy metadata suggestions
+
 
 #### 🐱 **[Cats vs Dogs Classifier](https://github.com/mdshahadathossainit/cats-and-dogs-deep-learning-project)**
 CNN-based image classifier 
