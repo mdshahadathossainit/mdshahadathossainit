@@ -41,11 +41,9 @@ Impact: Live demo on Vercel/Render; responsive dashboard with REST API
 - **[Live Demo] (frontend: https://research-hub-kappa.vercel.app/) (Backend: https://research-hub-d9pz.onrender.com/api/papers/)**
 
 #### 🤖 **[Nexus-AI](https://github.com/mdshahadathossainit/nexus-ai-project)**
-Full-Stack research management system for paper publishing and archiving.
-
-Tech: Django REST, React, Tailwind CSS, SQLite
-
-Impact: Live demo on Vercel/Render; responsive dashboard with REST API
+High-converting, modern AI landing page with glassmorphism effects and smooth animations.
+​Tech: React.js, Tailwind CSS, Vite, Lucide React
+​Impact: Live demo on Vercel; fully responsive dark-themed UI with glassmorphism and neon accents.
 
   **[Live Demo] (https://nexus-ai-project.vercel.app/)**
 
