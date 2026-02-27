@@ -41,10 +41,14 @@ Impact: Live demo on Vercel/Render; responsive dashboard with REST API
 - **[Live Demo] (frontend: https://research-hub-kappa.vercel.app/) (Backend: https://research-hub-d9pz.onrender.com/api/papers/)**
 
 #### 🤖 **[Nexus-AI](https://github.com/mdshahadathossainit/nexus-ai-project)**
-Multi-functional AI platform with LLM chatbots for text/image generation.
-- **Tech:** Python, OpenAI/Gemini API, Django, JS
-- **Impact:** Real-time responses; deployed on Netlify
+Full-Stack research management system for paper publishing and archiving.
+
+Tech: Django REST, React, Tailwind CSS, SQLite
+
+Impact: Live demo on Vercel/Render; responsive dashboard with REST API
+
   **[Live Demo] (https://nexus-ai-project.vercel.app/)**
+
 
 #### 🎓 **[EduBridge](https://github.com/mdshahadathossainit/edubridge-project)**
 Full LMS bridging students to resources with course tracking.
