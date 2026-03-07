@@ -69,12 +69,23 @@ A bridge between students and resources, simplifying online learning management.
 
 ---
 
+---
+
+---
+
 ### 📊 Performance Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshahadathossainit&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahadathossainit&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshahadathossainit&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahadathossainit&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahadathossainit&theme=radical&area=true&hide_border=true&border_radius=10" alt="GitHub Activity Graph" width="850" />
+</p>
+
+---
 ---
 
 <p align="center">
