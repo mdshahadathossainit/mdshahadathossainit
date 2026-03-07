@@ -69,16 +69,17 @@ A bridge between students and resources, simplifying online learning management.
 
 ---
 
----
-
----
 
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshahadathossainit&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdshahadathossainit&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahadathossainit&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdshahadathossainit&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdshahadathossainit&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -86,9 +87,18 @@ A bridge between students and resources, simplifying online learning management.
 </p>
 
 ---
----
+
 
 <p align="center">
   <i>"Code is poetry when it solves a problem beautifully."</i><br>
   <b>Let's build something impactful together!</b>
 </p>
+
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdshahadathossainit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:m.shahadat.hossain.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://mdshahadathossainit.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
