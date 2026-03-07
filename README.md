@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Software Developer | AI/ML & Computer Vision Enthusiast | Full-Stack Architect</strong>
+  <strong>🚀 Software Developer | Full-Stack Developer | AI/ML & Computer Vision Enthusiast 
 </p>
 
 <p align="center">
