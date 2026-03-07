@@ -64,7 +64,7 @@ Hybrid filtering engine powered by YouTube API for high-precision content sugges
 
 #### 🎓 **[EduBridge LMS](https://github.com/mdshahadathossainit/edubridge-project)**
 A bridge between students and resources, simplifying online learning management.
-* **Tech:** Django, Python, SQLite.
+* **Tech:** Python, Django,HTML5, CSS3, JavaScript, Bootstrap 5,SQLite
 * **Demo:** [Live Link](https://mdshahadathossainit.pythonanywhere.com/)
 
 ---
