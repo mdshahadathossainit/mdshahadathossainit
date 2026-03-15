@@ -40,7 +40,7 @@ I am a results-driven **Software Developer** with a focus on building high-perfo
 ### 🏆 Featured Masterpieces
 
 #### 🛒 **[Full-Stack E-Commerce Platform](https://github.com/mdshahadathossainit/E-Commerce)** (New 🔥)
-A premium Amazon-inspired shopping experience with secure payments and real-time management.
+Developed a scalable and high-performance E-Commerce platform using a Decoupled Architecture. This project features a robust Django REST Framework backend and a dynamic React.js frontend, delivering an end-to-end shopping experience.
 * **Tech:** Django REST Framework, React (Vite), JWT Auth, PostgreSQL.
 * **Key Features:** Modern UI, Dynamic Categorization, Order Tracking, and Responsive Dashboard.
 * **Demo:** [Frontend](https://e-commerce-drab-iota-38.vercel.app/) | [API API](https://e-commerce-hmvn.onrender.com/api/)
